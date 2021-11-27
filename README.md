@@ -45,7 +45,7 @@ Untuk menggunakan repositori ini, ikutilah petunjuk penggunaan berikut dan pasti
 
 1. Lakukan download .zip atau `clone` repositori dengan cara:
 ```bash
-git clone hhttps://github.com/B0ndan/MSIB_CapsProject.git
+git clone https://github.com/B0ndan/MSIB_CapsProject.git
 ```
 
 2. Jika mendownload .zip, Extract zip tersebut dan Jalankan file dengan ekstensi .html menggunakan browser atau live server.
@@ -55,7 +55,7 @@ git clone hhttps://github.com/B0ndan/MSIB_CapsProject.git
 Untuk dapat berkontribusi dengan baik dan benar, harus mengikuti aturan seperti dibawah ini:
 1. Lakukan `clone` repositori dengan cara:
 ```bash
-git clone https://github.com/dekapd99/redesign-ittama.git
+git clone https://github.com/B0ndan/MSIB_CapsProject.git
 ```
 
 2. Buat branch baru untuk mengerjakan tugas yang diterima, misalkan (mendapatkan tugas membuat halaman `Beranda`) maka buatlah `branch` baru bernama `beranda` dengan cara:
@@ -87,4 +87,5 @@ Anggota Kelompok 6 dari MSIB yang berkontribusi dalam pengerjaan proyek terdiri 
 * [Kevin Agung Fernanda Rifki](https://github.com/kepinthemightyoren)
 * [Muhammad Bondan Vitto Ramadhan](https://github.com/B0ndan)
 
+## Bismillah Selesai Ya!!
 <p align="right">(<a href="#top">back to top</a>)</p>
