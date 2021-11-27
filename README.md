@@ -82,7 +82,7 @@ git push origin nama branch
 <!-- Contributors -->
 ## Contributors
 
-Anggota Kelompok Kharis Suhud yang berkontribusi dalam pengerjaan proyek terdiri dari :
+Anggota Kelompok 6 dari MSIB yang berkontribusi dalam pengerjaan proyek terdiri dari :
 * [Shafira Faira Huwaida](https://github.com/shafirafh)
 * [Kevin Agung Fernanda Rifki](https://github.com/kepinthemightyoren)
 * [Muhammad Bondan Vitto Ramadhan](https://github.com/B0ndan)
