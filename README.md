@@ -83,9 +83,11 @@ git push origin nama branch
 ## Contributors
 
 Anggota Kelompok 6 dari MSIB yang berkontribusi dalam pengerjaan proyek terdiri dari :
-* [Shafira Faira Huwaida](https://github.com/shafirafh)
-* [Kevin Agung Fernanda Rifki](https://github.com/kepinthemightyoren)
 * [Muhammad Bondan Vitto Ramadhan](https://github.com/B0ndan)
+* [Kevin Agung Fernanda Rifki](https://github.com/kepinthemightyoren)
+* [Shafira Faira Huwaida](https://github.com/shafirafh)
+
+
 
 ## Bismillah Selesai Ya!!
 <p align="right">(<a href="#top">back to top</a>)</p>
