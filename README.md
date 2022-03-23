@@ -1,5 +1,5 @@
 # MSIB_CapsProject
-## This is For Our Project [Group 6]
+## This is My Project 
 
 <h1 align="center">
   <br>
@@ -22,7 +22,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About
-Salah satu masalah yang sering dialami oleh pengguna aplikasi Spotify adalah dimana musik yang ingin didengar oleh pengguna dijalankan secara acak atau telah diatur dalam daftar putar yang dikuratori oleh Spotify (baik berdasarkan bahasa maupun penyanyi) sehingga pengguna perlu memilih sendiri musik mana yang ingin didengar sesuai dengan mood pendengarnya. Oleh karena itu, proyek ini disusun dalam rangka memudahkan pengguna aplikasi Spotify untuk mengklasifikasikan musik dan mengurutkannya sesuai dengan mood. Algoritma ini akan menyortir musik dari Spotify dalam playlist pertama (musik bahagia, optimis, dan energik) atau playlist kedua (lambat, menenangkan, dan tenang) sesuai dengan atribut musik yang digunakan. Algoritma yang ingin kami buat adalah dengan mengklasifikasikan dari kedua playlist yang dipilih yang berisi beberapa lagu, dengan algoritma yang kami buat akan menghasilkan atau menunjukkan bahwa ada beberapa lagu di kedua playlist yang memiliki atribut musik yang sama. Playlists akan diklasifikasikan berdasarkan kualitas yang sama dan terdekat. Pengklasifikasian dilakukan menggunakan KNN algorithm. Data yang digunakan adalah data Spotify (Spotify merupakan sebuah layanan streaming musik dan podcast yang berbasis di Swedia) yang terdiri dari 199 lagu. Terdapat beberapa variabel, yaitu artist, track, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, type, id, uri, track_href, analysis_url, duration_ms, dan time signature.
+One of the problems often experienced by users of the Spotify application is where the music that users want to hear is run randomly or has been arranged in a playlist curated by Spotify (both by language and singer) so users need to choose which music they want to hear according to their preferences. listener's mood. Therefore, this project was structured in order to make it easier for Spotify app users to classify music and sort it according to mood. This algorithm will sort music from Spotify in the first playlist (happy, upbeat, and energetic music) or the second playlist (slow, calming, and calm) according to the attributes of the music used. The algorithm that we want to create is to classify from the two selected playlists that contain several songs, with our algorithm it will generate or show that there are several songs in both playlists that have the same music attributes. Playlists will be classified based on the same and closest quality. Classification is done using the KNN algorithm. The data used is Spotify data (Spotify is a music and podcast streaming service based in Sweden) which consists of 199 songs. There are several variables, namely artist, track, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, type, id, uri, track_href, analysis_url, duration_ms, and time signature. 
 
 ### Build With:
 
@@ -30,7 +30,7 @@ Salah satu masalah yang sering dialami oleh pengguna aplikasi Spotify adalah dim
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 
 ### Features:
-* Masih Belum
+* Not Yet
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Preview Application -->
@@ -40,7 +40,7 @@ Preview (gif/gambar/url) aplikasi jadi atau boleh prototype atau host url
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- How to Install -->
-## Installation [Dibaca Ya Guys!]
+## Installation
 Untuk menggunakan repositori ini, ikutilah petunjuk penggunaan berikut dan pastikan git sudah terinstall pada komputer (semua perintah dilaksanakan pada `cmd.exe` atau `terminal`):
 
 1. Lakukan download .zip atau `clone` repositori dengan cara:
